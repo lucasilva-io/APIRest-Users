@@ -4,7 +4,7 @@ API REST para gerenciamento de usuários com operações CRUD, desenvolvida com 
 
 ## Tecnologias
 
-- Java 21
+- Java 17
 - Spring Boot
 - Spring Data JPA
 - Hibernate
@@ -14,7 +14,7 @@ API REST para gerenciamento de usuários com operações CRUD, desenvolvida com 
 
 ## Requisitos
 
-- JDK 21+
+- JDK 17+
 - Maven
 - SQL Server com autenticação habilitada
 - SQL Server Management Studio (opcional)
